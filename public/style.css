@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: antiquewhite;
+    background-color: tomato;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: teal;
+    font-size: large;
+}
